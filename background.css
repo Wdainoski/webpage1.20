@@ -1,0 +1,23 @@
+#box_1 {
+    background-color:red;
+}
+
+.custom_size {
+    width:40%;
+    height:400px;
+}
+
+.custom_margin {
+    margin: 200px;
+    background-color:blue;
+}
+.custom_margin-2 {
+    margin-left:50px;
+    margin-right:0px;
+    margin-top:10px;
+    margin-bottom:50px;
+}
+.custom_padding {
+    padding-left:20px;
+    padding-top:20px;
+}
